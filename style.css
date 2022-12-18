@@ -110,7 +110,6 @@ a {
 }
 
 .parallax {
-	background-image: url('assets/foto/semismile.png');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
